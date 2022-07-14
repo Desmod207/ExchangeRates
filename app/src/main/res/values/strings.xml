@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="converter_hint">Введите сумму</string>
+    <string name="rub">Рублей</string>
+    <string name="update_button">Обновить</string>
+    <string name="equals">=</string>
+</resources>
